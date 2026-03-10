@@ -1,8 +1,8 @@
-📋 Backlog do Produto - Sistema de Agendamento Odontológico
+Backlog do Produto - Sistema de Agendamento Odontológico
 
 Este documento centraliza todos os requisitos funcionais, não funcionais e regras de negócio, organizados em itens de trabalho para o desenvolvimento do sistema.
 
-🏗️ EPIC 1: Segurança & Conformidade (LGPD & Ética)
+EPIC 1: Segurança & Conformidade (LGPD & Ética)
 
 Prioridade: Crítica | Objetivo: Garantir a segurança dos dados sensíveis do paciente.
 
@@ -12,7 +12,7 @@ Prioridade: Crítica | Objetivo: Garantir a segurança dos dados sensíveis do p
 
 [ ] Configuração de Disponibilidade (RNF01/RNF05): Configurar infraestrutura 24/7 com sincronização automática e cópia de segurança (backup) na nuvem (Firebase).
 
-📅 EPIC 2: Motor de Agendamento Central (Agendamento Inteligente)
+EPIC 2: Motor de Agendamento Central (Agendamento Inteligente)
 
 Prioridade: Alta | Objetivo: Criar um fluxo de marcação rápido, intuitivo e sem erros.
 
@@ -24,7 +24,7 @@ Prioridade: Alta | Objetivo: Criar um fluxo de marcação rápido, intuitivo e s
 
 [ ] Triagem de Emergência (RN03): Implementar um fluxo prioritário para pacientes que selecionarem a opção "Dor Aguda".
 
-👤 EPIC 3: Gestão Clínica & do Paciente
+EPIC 3: Gestão Clínica & do Paciente
 
 Prioridade: Média | Objetivo: Facilitar o dia a dia da Dra. Thais e a gestão dos perfis.
 
@@ -34,7 +34,7 @@ Prioridade: Média | Objetivo: Facilitar o dia a dia da Dra. Thais e a gestão d
 
 [ ] Lógica de Cancelamento/Reagendamento (RF03/RN01): Implementar a validação de antecedência mínima de 24 horas para alterações sem custos adicionais.
 
-🔔 EPIC 4: Envolvimento & Inteligência
+EPIC 4: Envolvimento & Inteligência
 
 Prioridade: Alta | Objetivo: Reduzir faltas (absenteísmo) e esclarecer dúvidas.
 
@@ -47,7 +47,7 @@ Prioridade: Alta | Objetivo: Reduzir faltas (absenteísmo) e esclarecer dúvidas
 [ ] Galeria de Tratamento (RF05): Galeria para acompanhamento visual da evolução do tratamento do paciente.
 
 
-📊 Tabela de SLA e Nível de Serviço (Qualidade)
+Tabela de SLA e Nível de Serviço (Qualidade)
 
 A tabela abaixo define os indicadores de performance e qualidade (SLA) que o sistema deve manter para garantir uma boa experiência de utilizador e conformidade legal.
 
@@ -59,7 +59,7 @@ RNF03 | Responsividade Visual      | Compatibilidade 100% Mobile | Pendente
 RN06  | Segurança (LGPD)           | Criptografia AES-256 ativa  | Pendente
 RF04  | Entrega de Notificações    | < 5 minutos de atraso       | Pendente
 
-🛠️ Tecnologias & Padrões
+Tecnologias & Padrões
 
 Framework: Flutter (Dart) ou React Native.
 
