@@ -1,4 +1,4 @@
-**User Stories - Sistema Odontológico Dra. Thais Tardelli**
+# User Stories - Sistema Odontológico Dra. Thais Tardelli
 
 Perfil: Paciente
 
